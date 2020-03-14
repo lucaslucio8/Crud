@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Lucas Lucio",
+            "email": "lucas.lucio8@etec.sp.gov.br"
+        },
+        {
+            "id": 2,
+            "name": "Bruno Petrocchi",
+            "email": "bruno.petrocchi@etec.com.br"
+        }
+    ]
+}
